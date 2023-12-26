@@ -1,1 +1,3 @@
 27.12.23 - let's fucking get started
+planning resources:
+https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-from-start-to-finish/
